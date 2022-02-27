@@ -77,11 +77,10 @@ html, body {
 }
 
 .offline .controller {
-  background: rgba(247, 247, 247, .1);
   height: 100vh;
   left: 0;
   position: absolute;
-  top: 0;
+  top: 20rem;
   width: 100vw;
   z-index: 1;
 }
